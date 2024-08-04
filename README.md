@@ -1,10 +1,11 @@
 ## Hi there 👋 <br>
 🔭 I’m currently working on .net c# <br>
 🌱 I'm currently learning <br> 
-<img className="tw-followCard-avatar" 
+<header>
+<img style="width: 48px;   height: 48px;   border-radius: 1000px;" 
                 alt="El Avatar" 
                 src="![image](https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50)" />
-
+</header>
 <!--
 **bonfildev/bonfildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
