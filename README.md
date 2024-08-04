@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on .net c# but 
+🌱 I'm currently learning ![image](https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50)
+
 
 <!--
 **bonfildev/bonfildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
