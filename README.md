@@ -1,6 +1,6 @@
-## Hi there 👋
-🔭 I’m currently working on .net c# but 
-🌱 I'm currently learning ![image](https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50)
+## Hi there 👋 <br>
+🔭 I’m currently working on .net c# <br>
+🌱 I'm currently learning <br> ![image](https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50)
 
 
 <!--
