@@ -3,7 +3,7 @@
 🌱 I'm currently learning <br> 
 <header style="width: 48px;   height: 48px;   border-radius: 1000px;" >
 </header>
-<img align="center" width="200" src="https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50"/>
+<img align="center" style="width: 48px;   height: 48px;   border-radius: 1000px;" src="https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50"/>
 <!--
 **bonfildev/bonfildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
