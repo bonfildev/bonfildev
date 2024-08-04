@@ -1,7 +1,9 @@
 ## Hi there 👋 <br>
 🔭 I’m currently working on .net c# <br>
-🌱 I'm currently learning <br> ![image](https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50)
-
+🌱 I'm currently learning <br> 
+<img className="tw-followCard-avatar" 
+                alt="El Avatar" 
+                src="![image](https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50)" />
 
 <!--
 **bonfildev/bonfildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+.tw-followCard-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 1000px;
+  }
