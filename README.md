@@ -1,25 +1,13 @@
-## Hi there 👋 <br>
-🔭 I’m currently working on .net c# <br>
-🌱 I'm currently learning <br> 
-<header style="display: flex; align-items: center; gap: 4px" >
+<article style="display: flex; align-items: center; color: #fff; font-size: .8rem; justify-content: space-between;">
+<p>
+    ## Hola 👋 Soy Diego Bonfil <br>
     <img align="center" style="width: 48px; height: 48px; border-radius: 1000px;" src="https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50"/>
-</header>
-<!--
-**bonfildev/bonfildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     
+</p>
+<p style="display: flex; align-items: center; gap: 4px">
+    Actualmente trabajo .net c# <br>
+    Y estoy aprendiendo: <br>
+    <img align="center" style="width: 48px; height: 48px; border-radius: 1000px;" src="https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-.tw-followCard-avatar {
-    width: 48px;
-    height: 48px;
-    border-radius: 1000px;
-  }
+</article>
