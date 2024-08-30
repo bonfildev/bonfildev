@@ -8,7 +8,7 @@
         <img align="center" style="width: 48px; height: 48px; border-radius: 1000px;" src="https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50"/>
     </p>
     <p align="center" width="300" style ="width:25%; color:red ">
-        <br>🎵< Try to be best 🎵<br>
+        <br>🎵 Try to be best 🎵<br>
         🎵‘Cause you're only a man 🎵<br>
         And a man's gotta learn to take it <br>
         Try to believe <br>
