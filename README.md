@@ -3,10 +3,10 @@
         Hola 👋 Soy Diego Bonfil <br>
     </p>
     <p align="center" width="300">
-        Actualmente trabajo en .net c# <br>
-        "Ten el coraje de seguir tu corazón y tu intuición. De algún modo saben en qué quieres convertirte": <br>
-        <img align="center" style="width: 48px; height: 48px; border-radius: 1000px;" src="https://github.com/user-attachments/assets/76d7c0fe-da2e-4879-90fe-85dd95181f50"/>
+        Actualmente trabajo en .NET MVC C# <br>
+        "Ten el coraje de seguir tu corazón y tu intuición.<br> De algún modo saben en qué quieres convertirte": <br>
     </p>
+     <img align="center" src="https://github.com/bonfildev/bonfildev/blob/main/assets/mvc.JPG"/>
     <p align="center" width="300" style ="width:25%; color:red ">
         <br>🎵 Try to be best 🎵<br>
         🎵‘Cause you're only a man 🎵<br>
