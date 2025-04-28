@@ -8,9 +8,4 @@
     </p>
     <p align="center" width="300">
      <img align="center" src="https://github.com/bonfildev/bonfildev/blob/main/assets/MVCArchitecture.JPG"/>
-        
-    </p>
-    <p align="center" width="300" style ="width:25%; color:red ">
-    </p>
-
 </article>
